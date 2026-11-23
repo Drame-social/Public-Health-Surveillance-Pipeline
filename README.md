@@ -1,9 +1,6 @@
 # Public Health Surveillance Data Pipeline
 
-**Author:** Aly Drame, MD, MPH, MBA  
-**Languages:** Python · SQL · SAS · PySpark  
-**Domain:** Epidemiological surveillance, CDC DCIPHER-style workflows  
-**Data:** Fully synthetic — generated for portfolio demonstration
+*By Aly Drame, MD, MPH, MBA.* An end-to-end surveillance pipeline (Python / SQL / SAS / PySpark) that turns four messy synthetic case tables into weekly outbreak reporting, modeled on CDC DCIPHER-style workflows. All data are synthetic and for portfolio demonstration only.
 
 ---
 
