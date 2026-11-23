@@ -1,0 +1,6 @@
+# Rendered outputs do not represent primary source languages.
+*.html linguist-generated=true
+*.htm linguist-generated=true
+
+# Notebooks are documentation rendered from analysis code.
+*.ipynb linguist-documentation=true
