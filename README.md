@@ -75,6 +75,13 @@ All outputs (CSVs, PNGs, Word report) are written to `outputs/`.
 
 ---
 
+## Documentation
+
+- [Methods](docs/methods.md)
+- [Data dictionary](docs/data_dictionary.md)
+- [Results summary](docs/results_summary.md)
+- [Limitations](docs/limitations.md)
+
 ## SQL Scripts
 
 The `scripts/sql/` directory contains a complete RDBMS implementation of the surveillance schema and analytical queries, including DCIPHER-style aggregation patterns and automated outbreak detection using rolling 4-week averages with configurable alert thresholds.
